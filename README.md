@@ -12,7 +12,7 @@ AI/ML Engineer who builds practical AI applications. I learn by shipping real, w
 
 🧰 Stack: Python · SQL · TypeScript · Next.js · Flask · LangChain · AWS · Supabase
 
-📫 Reach me: LinkedIn - https://www.linkedin.com/in/shivani-singh-a88232216 · anjushivi2004@gmail.com
+📫 Reach me: https://www.linkedin.com/in/shivani-singh-a88232216 · anjushivi2004@gmail.com
 <!--
 **shivanam28/shivanam28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
