@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-shivanam.io-D61F26?style=for-the-badge&logoColor=white&labelColor=050505)](https://shivanam.io)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=D61F26&labelColor=050505)](https://www.linkedin.com/in/shivani-singh-a88232216)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=D61F26&labelColor=050505)](https://www.linkedin.com/in/shivani-singh-io)
 [![Email](https://img.shields.io/badge/EMAIL-Say%20Hi-0B0B0B?style=for-the-badge&logo=gmail&logoColor=D61F26&labelColor=050505)](https://mail.google.com/mail/?view=cm&fs=1&to=anjushivi2004@gmail.com)
 
 </div>
