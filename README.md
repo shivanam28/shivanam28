@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shivanam.io-D61F26?style=for-the-badge&logoColor=white&labelColor=050505)](https://shivanam.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shivanam.io-D61F26?style=for-the-badge&logoColor=white&labelColor=050505)]([https://shivanam.io](https://shivanam-io.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=D61F26&labelColor=050505)](https://www.linkedin.com/in/shivani-singh-io)
 [![Email](https://img.shields.io/badge/EMAIL-Say%20Hi-0B0B0B?style=for-the-badge&logo=gmail&logoColor=D61F26&labelColor=050505)](https://mail.google.com/mail/?view=cm&fs=1&to=anjushivi2004@gmail.com)
 
@@ -81,7 +81,7 @@ An intelligent agent-driven project exploring LLM-powered reasoning over structu
 <td width="50%" valign="top">
 
 **→ See all projects, write-ups, and live demos on**
-**[shivanam.io](https://shivanam.io)**
+**[shivanam.io](https://shivanam-io.vercel.app/)**
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ An intelligent agent-driven project exploring LLM-powered reasoning over structu
 
 ### Let's build something.
 
-[![Portfolio](https://img.shields.io/badge/shivanam.io-D61F26?style=for-the-badge&logoColor=white&labelColor=050505)](https://shivanam.io)
+[![Portfolio](https://img.shields.io/badge/shivanam.io-D61F26?style=for-the-badge&logoColor=white&labelColor=050505)](https://shivanam-io.vercel.app/)
 [![GitHub](https://img.shields.io/badge/@shivanam28-050505?style=for-the-badge&logo=github&logoColor=D61F26)](https://github.com/shivanam28)
 [![LinkedIn](https://img.shields.io/badge/Shivani%20Singh-050505?style=for-the-badge&logo=linkedin&logoColor=D61F26)](https://www.linkedin.com/in/shivani-singh-a88232216)
 
